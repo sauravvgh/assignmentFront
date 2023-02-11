@@ -1,0 +1,429 @@
+*{
+    position: relative;
+    width:1416px;
+    height: 9312px;
+    background: #cac4c4;
+}
+/* Navbar CSS */
+.Topbar{
+    position: absolute;
+    width: 1460px;
+    height: 198px;
+    left: -3px;
+    top: 0px;
+    border-bottom: 2px solid rgba(4, 5, 6, 0.16);
+}
+.toprectangle{
+    position: absolute;
+    width: 1460px;
+    height: 48px;
+    background: #1D262A;
+}
+
+.topleft{
+    position: absolute;
+    display: flex;
+    width: 256px;
+    height: 23px;
+    left: 61px;
+    top: 12px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 113.2%;
+    text-align: center;
+    letter-spacing: 0.095em;
+    text-transform: capitalize;
+    color: #F3F3F3;
+    background: #1D262A;
+}
+
+
+.topright{
+    position: absolute;
+    width: 288px;
+    height: 23px;
+    right: 146px;
+    top: 12px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 113.2%;
+    text-align: center;
+    text-transform: capitalize;
+    color:#F3F3F3;
+    background: #1D262A;
+}
+.Navbar{
+    position: absolute;
+    height: 120px;
+    width: 1410px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    
+    left: 0px;
+    top: 48px;
+}
+
+.Group354{
+    position: absolute;
+    width: 101px;
+    height: 101px;
+    left: 72px;
+    top: 3px;
+    right:1267px;
+    
+    
+}
+
+.logo{
+    position: absolute;
+    width: 45px;
+    height: 70px;
+    left: 25.11px;
+    top: 12.27px;
+    margin-top:30px;
+    display:inline;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30.5053px;
+    line-height: 120.2%;
+}
+.login{
+    position: absolute;
+    width: 48px;
+    height: 23px;
+    right: 179px;
+    top: 40px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 113.2%;
+    /* identical to box height, or 23px */
+
+    text-align: center;
+    text-transform: capitalize;
+
+/* Black */
+
+color: #1D262A;
+}
+.G8{
+    height: 69px;
+    width: 260px;
+    left: 221px;
+    top: 17px;
+    border-radius: 0px;
+
+    
+}
+.G7{
+    height: 24px;
+    width: 142px;
+    left: 6px;
+    top: 17px;
+    border-radius: 0px;
+
+}
+.phoneText{
+        height: 18px;
+        width: 107px;
+        left: 67px;
+        top: 17px;
+        bottom: 20px;
+        position: absolute;
+        right: 74.44%;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        text-align: left;
+        text-transform: capitalize;
+
+    /* Black */
+
+    color: #1D262A;
+
+}
+
+.callicon{
+    height: 24px;
+    width: 24px;
+    left: 226px;
+    top: 17px;
+    border-radius: 0px;
+
+}
+
+.G6{
+    height: 38px;
+    width: 260px;
+    left: 67px;
+    top: 106px;
+    border-radius: 0px;
+    position: absolute;
+    right: 993px;
+    bottom: 21px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: left;
+    text-transform: capitalize;
+}
+.burgerrimg{
+        position: absolute ;
+        width: 1249px;
+        height: 268px;
+        left: 93px;
+        top: 204px;
+        right: 98px;
+        margin-top:51px;
+        border-radius: 15px;
+}
+.pinpointericon{
+    height: 38px;
+    width: 38px;
+    top:48px;
+    left:221px;
+    bottom: 18px;
+
+}
+.pin{
+    height: 32.458335876464844px;
+    width: 28.104101181030273px;
+    left: 4.9400634765625px;
+    top: 2.77099609375px;
+    border-radius: 0px;
+    
+
+}
+
+/* Coupon Code CSS */
+
+.CouponCode257{
+    position: absolute;
+    width: 1360px;
+    height: 209px;
+    left: 89px;
+    top: 580px;
+    right:91px;
+    bottom: 169px;
+    /* border: 1px solid; */
+
+}
+.CText280{
+    position: absolute;
+    height: 50px;
+    width: 202px;
+    top:1px;
+    bottom:780px;
+    border-radius: nullpx;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: px;
+    left:1px;
+    
+
+}
+.codetext{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 39px;
+    left:1px;
+}
+.vouchers256{
+    position: absolute;
+    width: 1681px;
+    height: 133.39px;
+    left: 0px;
+    top: 0px;
+    border: 1px solid;
+}
+
+.voucher1{
+    
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #D9D9D9;
+border-radius: 7.84653px;
+}
+.arealvoucher256{
+    position: absolute;
+    width: 1359.1px;
+    height: 163.39px;
+    left: 0px;
+    top: 44px;
+    /* border: 1px solid; */
+
+}
+
+.voucher1{
+    position: absolute;
+    height: 133.39108276367188px;
+    width: 317px;
+    left: 0px;
+    top: 0px;
+    right: 24px;
+    bottom: 107.61px;
+    border-radius: 7.846534729003906px;
+    background:rgba(204, 112, 25, 0.842);
+}
+.voucher2{
+    background:pink;
+    left:350px;
+    right: 24px;
+    height: 133.39108276367188px;
+    width: 317px;
+    bottom: 107.61px;
+    top: 0px;
+    border-radius: 7.846534729003906px;
+
+}
+
+.voucher3{
+    background: rgb(69, 45, 15);
+    height: 133.39108276367188px;
+    width: 317px;
+    left: 700.65px;
+    bottom: 133.61px;
+    border-radius: 7.846534729003906px;
+
+}
+
+.voucher4{
+    background: rgb(230, 141, 32);
+    height: 133.39108276367188px;
+    width: 250px;
+    left: 1090px;
+    
+    bottom: 266.61px;
+    border-radius: 7.846534729003906px;
+
+}
+
+
+
+.ellipse175{
+    height: 62.77227783203125px;
+    width: 62.77227783203125px;
+    left: -31.3861083984375px;
+    top: 35.309326171875px;
+    border-radius: 0px;
+
+    position: absolute;
+    left: -9.9%;
+    right: 90.1%;
+    top: 26.47%;
+    bottom: 26.47%;
+    border-radius: 100%;
+    background:#cac4c4;
+
+}
+
+.ellipse174{
+    height: 62.77227783203125px;
+    width: 62.77227783203125px;
+    left: 285.6138916015625px;
+    top: 35.309326171875px;
+    border-radius: 100%;
+    position: absolute;
+    left: 90.1%;
+    right: -9.9%;
+    top: 26.47%;
+    bottom: 26.47%;
+    background:#cac4c4;
+
+
+}
+.vouchertext1{
+    height: 57px;
+    width: 199px;
+    left: 48.64849853515625px;
+    top: 35.40087890625px;
+    border-radius: nullpx;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50.2178px;
+    line-height: 113.2%;
+    /* identical to box height, or 57px */
+
+    text-align: center;
+    text-transform: uppercase;
+    background: rgba(204, 112, 25, 0.842);
+    color: #FFFFFF;
+
+}
+.vouchertext2{
+    height: 57px;
+    width: 199px;
+    left: 48.64849853515625px;
+    top: 35.40087890625px;
+    border-radius: nullpx;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50.2178px;
+    line-height: 113.2%;
+    /* identical to box height, or 57px */
+
+    text-align: center;
+    text-transform: uppercase;
+    background:pink;
+    color: #FFFFFF;
+
+}
+.vouchertext3{
+    height: 57px;
+    width: 199px;
+    left: 48.64849853515625px;
+    top: 35.40087890625px;
+    border-radius: nullpx;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50.2178px;
+    line-height: 113.2%;
+    /* identical to box height, or 57px */
+
+    text-align: center;
+    text-transform: uppercase;
+    background:rgb(69, 45, 15);
+    color: #FFFFFF;
+
+}
+.vouchertext4{
+    height: 57px;
+    width: 199px;
+    left: 48.64849853515625px;
+    top: 35.40087890625px;
+    border-radius: nullpx;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50.2178px;
+    line-height: 113.2%;
+    /* identical to box height, or 57px */
+
+    text-align: center;
+    text-transform: uppercase;
+    background:rgb(230, 141, 32);
+    color: #FFFFFF;
+
+}
+/******************* END of COUPON VOUCHER CSS*****************************************888 */
+
