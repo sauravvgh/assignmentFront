@@ -1,6 +1,9 @@
 import React from 'react'
 import Burger from  '../images/burger.jpg';
-
+import Gorilla from '../images/gorillaz.jpg'
+import phone from '../images/call.png'
+import pointerpin from '../images/location.png'
+import MagGlass from '../images/SearchMagnify.png'
 const Topbar = () => {
   return (
     <>
@@ -10,22 +13,29 @@ const Topbar = () => {
         <div className="topright">Translate | Support | Help | FAQ</div>
       </div>
       <div className="Navbar">
-      
-      <div className="login">Login</div>
-        <div className="Group354">
-                <div className="logo">LOGO</div>  
+      <div className="gorillaa">
+        <img src={Gorilla} alt="" className="gorilla" />
+      </div>
+      <div className="Contactss">
+        <div className="Grp7phone">
+          985555555
         </div>
-       <div className="G8">
-        <div className="G7">
-            <h2 className="phoneText">984000000</h2>
-            <div className="callicon">
-            </div>  
+        <div className="PhoneImages">
+          <img src={phone} alt="" className="fellytone" />
         </div>
-        <h2 className="G6">Kathmandu, Nepal</h2>
-        <div className="pinpointericon">
-            <img src="" alt="" className="pin" />
+        <div className="locationdestination">Kathmandu, Nepal</div>
+        <div className="pinpointer">
+          <img src={pointerpin} alt="" className="pointerpin" />
         </div>
-       </div> 
+      </div>
+      <div className="searchbar">
+        <div className="magnify">
+          <img src={MagGlass} alt="" className="magchasma" />
+          <div className="inputfield">search your food
+          </div>
+        </div>
+      </div>
+      <div className="LoginText">Login</div>
 
     </div>
     </div>
